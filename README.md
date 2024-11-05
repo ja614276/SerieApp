@@ -1,13 +1,3 @@
-# SerieApp
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# SerieApp
-# SerieApp
-=======
->>>>>>> 7ec8ca18810dfeb00ee8368dd7c4021d44d815ab
-=======
->>>>>>> 7ec8ca18810dfeb00ee8368dd7c4021d44d815ab
-# SerieApp
-=======
->>>>>>> 7ec8ca18810dfeb00ee8368dd7c4021d44d815ab
+
+# API REST de Series y Películas (SPRING BOOT | JAVASCRIPT | SPRING DATA JPA | POSTGRESQL | API OMDB)
+Desarrollé una aplicación web en Spring Boot 17 que se integra con la API OMDb para buscar y gestionar series y películas, almacenando la información en una base de datos PostgreSQL, con la configuración y la gestión realizadas a través de la terminal. La aplicación permite a los usuarios explorar contenido mediante criterios como lanzamientos recientes y popularidad. Además, utilicé la API de ChatGPT para traducir las sinopsis de las películas y series al español, lo que mejora la accesibilidad del contenido, ya que toda la información en la API OMDb está completamente en inglés. Implementé Spring Data JPA para crear consultas personalizadas, incluyendo la búsqueda de series por título, el filtrado de series según el número de temporadas y la evaluación, así como la obtención de los episodios mejor calificados y los lanzamientos más recientes. Además de la terminal, también cuenta con una interfaz de usuario desarrollada en HTML y JavaScript, que proporciona un menú interactivo que mejora la navegación y optimiza la experiencia del usuario.
